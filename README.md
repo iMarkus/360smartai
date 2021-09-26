@@ -4,6 +4,7 @@ This is a list of endpoints which is used by the 360 mobile app to control 360 s
 https://q.smart.360.cn/clean/cmd/send
 https://q.smart.360.cn/clean/devuser/updateInfo
 https://q.smart.360.cn/clean/record/statis
+https://q.smart.360.cn/clean/record/allStatis
 https://q.smart.360.cn/clean/record/getList
 https://q.smart.360.cn/clean/record/getOne
 https://q.smart.360.cn/clean/ad/applist
